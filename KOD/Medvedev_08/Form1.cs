@@ -20,7 +20,7 @@ namespace Medvedev_08
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int imax = 100;
+            int imax = 100;// КОММЕНТАРИЙ ДЛЯ ТРЕТЬЕЙ ВЕТКИ
             int t = 2;
             int amp = 50;
             int h = 40;
